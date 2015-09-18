@@ -20,15 +20,15 @@
                         <p class="directory_content">{{address1}}</p>
                         <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                         <br>
-                    <p class="directory_content"><strong>Celeste Nickle</strong> 
-                    <br>General Manager
-                    <br>(519) 641-0976 ext. 222
-                    <br><a href="mailto:CNickle@Bentallkennedy.com">CNickle@Bentallkennedy.com</a></p>
+                    <p class="directory_content"><strong>John Minas</strong> 
+                    <br>Vice President, Operations – East
+                    <br>(905) 271-5091
+                    <br><a href="mailto:jminas@bentallkennedy.com">jminas@bentallkennedy.com</a></p>
                     <br>
-                    <p class="directory_content"><strong>Garnet Peirson</strong> 
-                    <br>Director of Leasing
+                    <p class="directory_content"><strong>David Wyatt </strong> 
+                    <br>Senior Vice President, Retail Leasing
                     <br>1.866.681.2715
-                    <br><a href="mailto:gpeirson@bentallkennedy.com">gpeirson@bentallkennedy.com</a></p>
+                    <br><a href="mailto:dwyatt@bentallkennedy.com">dwyatt@bentallkennedy.com</a></p>
                     </script>
                 </div>
             </div>
@@ -96,15 +96,15 @@
                     <p class="directory_content">{{address1}}</p>
                     <p class="directory_content">{{city}}, {{province_state}} {{postal_code}}</p>
                     <br>
-                    <p class="directory_content"><strong>Celeste Nickle</strong> 
-                    <br>General Manager
-                    <br>(519) 641-0976 ext. 222
-                    <br><a href="mailto:CNickle@Bentallkennedy.com">CNickle@Bentallkennedy.com</a></p>
+                    <p class="directory_content"><strong>John Minas</strong> 
+                    <br>Vice President, Operations – East
+                    <br>(905) 271-5091
+                    <br><a href="mailto:jminas@bentallkennedy.com">jminas@bentallkennedy.com</a></p>
                     <br>
-                    <p class="directory_content"><strong>Garnet Peirson</strong> 
-                    <br>Director of Leasing
+                    <p class="directory_content"><strong>David Wyatt </strong> 
+                    <br>Senior Vice President, Retail Leasing
                     <br>1.866.681.2715
-                    <br><a href="mailto:gpeirson@bentallkennedy.com">gpeirson@bentallkennedy.com</a></p>
+                    <br><a href="mailto:dwyatt@bentallkennedy.com">dwyatt@bentallkennedy.com</a></p>
                 </script>
             </div>
             
